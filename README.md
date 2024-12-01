@@ -1,2 +1,3 @@
 # dictionary
-about dictionary in detail. what is function in python.
+About dictionary in detail. what is function in python.
+author-Muhammad Talha
